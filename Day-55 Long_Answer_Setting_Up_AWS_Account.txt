@@ -1,3 +1,5 @@
+Q. Day-55 Describe the steps required to set up an AWS account. Discuss key security best practices, including IAM roles, multi-factor authentication (MFA), and billing monitoring. Why is security important when creating an AWS account?
+
 Steps to Set Up an AWS Account:
 Setting up an AWS (Amazon Web Services) account is the first step toward leveraging the cloud computing capabilities that AWS offers. Below are the steps you need to follow to create and set up an AWS account:
 
